@@ -16,7 +16,7 @@ const dataSourcesOptions = [
     { value: '1', label: 'LWCC'},
     { value: '2', label: 'HXG'},
     { value: '3', label: 'ESI'},
-    { value: '4', label: 'Other Flat files'}
+    { value: '4', label: 'Other Flat Files'}
     
 ];
 
@@ -153,7 +153,7 @@ const Content = () => {
                             alignItems: 'center',
                             fontSize: '14px'
                         }}>
-                            <span> Hit this button to refresh the results</span>
+                            <span> Hit this button to refresh the result</span>
                             <div style={{
                                 width: 0,
                                 height: 0,
